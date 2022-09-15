@@ -1,0 +1,17 @@
+20220910	10:43:47	c5664db9-1fc2-41ea-8ab8-0fe4c5664732	Error : Not allowed by CORS
+20220910	14:09:58	57dd0c55-e4a8-4f24-8c08-3579e9130438	TypeError : res.json(...).post is not a function
+20220910	14:10:08	13248adf-15b9-4c9f-aa3f-0380319bbc9c	TypeError : res.json(...).post is not a function
+20220910	14:37:29	97fad468-d5d9-423b-abdc-e4b45b5f45ed	SyntaxError : Unexpected token , in JSON at position 45
+20220912	23:25:52	737e28f9-4135-4dd0-9b6e-afc63cacbc20	SyntaxError : Unexpected token ' in JSON at position 14
+20220912	23:26:30	aab615a9-5bf4-4616-9dd0-7610897d9aae	SyntaxError : Unexpected token f in JSON at position 1
+20220912	23:26:31	520fa924-7e9f-4f34-bae7-4d4440491a0c	SyntaxError : Unexpected token f in JSON at position 1
+20220912	23:26:32	a57ea25c-6bd8-430f-ba29-dc4f40a6a1ca	SyntaxError : Unexpected token f in JSON at position 1
+20220912	23:26:35	4a8bf930-bf1d-4af5-b7e9-ab4d25f1a894	SyntaxError : Unexpected token f in JSON at position 1
+20220912	23:26:46	481026c3-41d2-43d5-b652-5a57f85d48b4	SyntaxError : Unexpected token ' in JSON at position 14
+20220912	23:26:49	af3aca89-51d2-4662-826e-08c018574cfa	SyntaxError : Unexpected token ' in JSON at position 14
+20220912	23:26:49	d80ca480-407b-4925-8396-73c790c090bf	SyntaxError : Unexpected token ' in JSON at position 14
+20220912	23:26:50	b06839cf-40ef-44b4-957c-eb1532020fa6	SyntaxError : Unexpected token ' in JSON at position 14
+20220912	23:26:54	e6c73762-7667-4310-a4b1-8b7175dd17e9	SyntaxError : Unexpected token ' in JSON at position 14
+20220912	23:26:55	d77c9e0d-2ea8-4101-b0c9-662ec3a87904	SyntaxError : Unexpected token ' in JSON at position 14
+20220912	23:26:56	e1ffdad8-5b4a-4c1c-8cb9-b227030cfce9	SyntaxError : Unexpected token ' in JSON at position 14
+20220912	23:27:32	ee176e12-f6ae-4644-8339-c0875617a911	SyntaxError : Unexpected token f in JSON at position 1
